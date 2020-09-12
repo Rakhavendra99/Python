@@ -2,7 +2,7 @@
 ## 2) Lower
 ## 3) Slice
 ## 4) Step operator
-## 5) len 
+## 5) len  
 ## 6) in
 
 ## 1) Upper case
